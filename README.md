@@ -29,8 +29,8 @@ Gosto de criar protótipos para organizar minhas ideias antes de desenvolver:
 ---
 
 ## 🌱 O que estou aprendendo
-- Melhorar minha lógica de programação;
-- Criar interfaces mais bonitas e responsivas;
+- Métodos para melhorar minha lógica de programação;
+- Aprender a criar interfaces mais bonitas e responsivas;
 - Trabalhar melhor com JavaScript e banco de dados.
 
 ---
